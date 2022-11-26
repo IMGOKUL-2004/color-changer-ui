@@ -1,0 +1,22 @@
+#block{
+    font-size: 100px;
+    display:none;
+}
+#dropdowncontainer{
+    background-color: rgb(230, 69, 106);
+    height: 50px;
+}
+#dropdownwrapper{
+    background-color: rgb(9, 6, 56);
+    position: relative;
+    width: 510px;
+}
+button{
+    width: 500px;
+    font-size: 20px;
+
+}
+br{
+    height:0px;
+    margin: 0px;
+}
